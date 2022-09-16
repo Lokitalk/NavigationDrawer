@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="selfmadedeveloper">Self-Taught Developers </string>
+    <string name="selfmadedeveloper1">Self-Taught Developers </string>
+    <string name="OpenDrwawer">Open navigation drwawer</string>
+    <string name="Closedrawer">close navigation drwawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="header_image">Header Image</string>
+</resources>
